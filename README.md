@@ -5,6 +5,7 @@
 # Stats
 [![Kenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=0m0kenny)](https://github.com/0m0kenny/github-readme-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0m0kenny&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0m0kenny&size_weight=0.5&count_weight=0.5)
 
 <!---
 0m0kenny/0m0kenny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
