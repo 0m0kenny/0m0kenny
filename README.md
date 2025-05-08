@@ -5,10 +5,10 @@
 # Stats
 
 <a href="https://github.com/0m0kenny/github-readme-stats">
-  <img height=200 align="center" src="github-readme-stats-git-master-kennys-projects-d9f0f7c5.vercel.app/api?username=0m0kenny" />
+  <img height=200 align="center" src="https://github-readme-stats-2xf1ibkfx-kennys-projects-d9f0f7c5.vercel.app/api?username=0m0kenny" />
 </a>
 <a href="https://github.com/0m0kenny/convoychat">
-  <img height=200 align="center" src="github-readme-stats-git-master-kennys-projects-d9f0f7c5.vercel.app/api/top-langs?username=0m0kenny&layout=compact&langs_count=8&card_width=250" />
+  <img height=200 align="center" src="https://github-readme-stats-2xf1ibkfx-kennys-projects-d9f0f7c5.vercel.app/api/top-langs?username=0m0kenny&layout=compact&langs_count=8&card_width=250" />
 </a>
 
 <!---
