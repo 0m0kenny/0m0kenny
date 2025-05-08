@@ -4,7 +4,7 @@
 
 # Stats
 
-<a href="https://github.com/0m0kennt/github-readme-stats">
+<a href="https://github.com/0m0kenny/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=0m0kenny" />
 </a>
 <a href="https://github.com/0m0kenny/convoychat">
