@@ -9,7 +9,7 @@ I created some tutorials on analysing VCF files in R called [VCF_Analysis_R](htt
 
 I also participated in the HealthTech AI Hub Hackathon where I co-developed [SuperQA](https://github.com/Eileenyuu/SuperQA), an AI-powered literature review assistant that leverages GPT-4o, Milvus, and a Flask frontend to query, evaluate, and test large biomedical datasets. 
 
-Previously, while completing a short course at the University of Manchester, I built [Variant_Annotator] (https://github.com/0m0kenny/Variant_Annotator), a Python-based application using Ensembl’s VEP API to automate annotation of genomic variants. 
+Previously, while completing a short course at the University of Manchester, I built [Variant_Annotator](https://github.com/0m0kenny/Variant_Annotator), a Python-based application using Ensembl’s VEP API to automate annotation of genomic variants. 
 
 
 
