@@ -11,7 +11,7 @@
   <img height=200 align="center" src="https://github-readme-stats-beta-six-93.vercel.app/api/top-langs?username=0m0kenny&layout=compact&langs_count=8&card_width=200" />
 </a>
 
-![Top Langs](https://github-readme-stats-beta-six-93.vercel.app/api/top-langs?username=0m0kenn&langs_count=8)
+![Top Langs](https://github-readme-stats-beta-six-93.vercel.app/api/top-langs?username=0m0kenny&langs_count=8)
 
 
 <!---
