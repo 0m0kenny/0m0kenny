@@ -4,13 +4,7 @@
 
 # Stats
 
-<a href="https://github.com/0m0kenny/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-beta-six-93.vercel.app/api?username=0m0kenny" />
-</a>
-<a href="https://github.com/0m0kenny/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-beta-six-93.vercel.app/api/top-langs?username=0m0kenny&layout=compact&langs_count=8&card_width=200" />
-</a>
-
+[![Anurag's GitHub stats]([https://github-readme-stats-beta-six-93.vercel.app/api/top-langs?username=0m0kenny))](https://github.com/0m0kenny/github-readme-stats)
 ![Top Langs](https://github-readme-stats-beta-six-93.vercel.app/api/top-langs?username=0m0kenny&langs_count=8)
 
 
