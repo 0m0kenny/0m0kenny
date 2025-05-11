@@ -15,7 +15,7 @@ Previously, while completing a short course at the University of Manchester, I b
 
 
 # Stats
-![Readme Card](https://github-readme-stats-beta-six-93.vercel.app/api?username=0m0kenny&)
+![Readme Card](https://github-readme-stats-beta-six-93.vercel.app/api?username=0m0kenny&repo=github-readme-stats3445)
 ![Top Langs](https://github-readme-stats-beta-six-93.vercel.app/api/top-langs?username=0m0kenny&langs_count=8&layout=compact)
 
 <!---
