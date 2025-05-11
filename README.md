@@ -5,7 +5,9 @@
 # Stats
 
 [![My GitHub stats](https://github-readme-stats-beta-six-93.vercel.app/api?username=0m0kenny)](https://github.com/0m0kenny/github-readme-stats)
+[![Readme Card](https://github-readme-stats-beta-six-93.vercel.app/api?username=0m0kenny&repo=github-readme-stats)](https://github.com/0m0kenny/github-readme-stats)
 ![Top Langs](https://github-readme-stats-beta-six-93.vercel.app/api/top-langs?username=0m0kenny&langs_count=8)
+
 
 
 <!---
