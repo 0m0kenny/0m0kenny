@@ -11,6 +11,9 @@
   <img height=200 align="center" src="https://github-readme-stats-beta-six-93.vercel.app/api/top-langs?username=0m0kenny&layout=compact&langs_count=8&card_width=200" />
 </a>
 
+![Top Langs](https://github-readme-stats-beta-six-93.vercel.app/api/top-langs?username=0m0kenn&langs_count=8)
+
+
 <!---
 0m0kenny/0m0kenny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
