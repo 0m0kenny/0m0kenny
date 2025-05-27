@@ -15,8 +15,8 @@ Previously, while completing a short course at the University of Manchester, I b
 
 
 # Stats
-![Readme Card](https://github-readme-stats-beta-six-93.vercel.app/api?username=0m0kenny&repo=github-readme-stats&extraparamstoupdatecache4)
-![Top Langs](https://github-readme-stats-beta-six-93.vercel.app/api/top-langs?username=0m0kenny&langs_count=8&layout=compact&extraparamstoupdatecache4)
+![Readme Card](https://github-readme-stats-beta-six-93.vercel.app/api?username=0m0kenny&repo=github-readme-stats&extraparamstoupdatecache5)
+![Top Langs](https://github-readme-stats-beta-six-93.vercel.app/api/top-langs?username=0m0kenny&langs_count=8&layout=compact&extraparamstoupdatecache5)
 
 <!---
 0m0kenny/0m0kenny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
