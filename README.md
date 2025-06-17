@@ -7,7 +7,7 @@ I am currently pursuing an MSc in Bioinformatics at the University of Birmingham
 
 I created some tutorials on analysing VCF files in R called [VCF_Analysis_R](https://github.com/0m0kenny/VCF_Analysis_R).
 
-I also participated in the [HealthTech AI Hub's Hackathon](https://www.linkedin.com/company/healthtech-ai-hub/) where I co-developed [SuperQA].(https://github.com/Eileenyuu/SuperQA), an AI-powered literature review assistant that leverages GPT-4o, Milvus, and a Flask frontend to query, evaluate, and test large biomedical datasets. 
+I also participated in the [HealthTech AI Hub's Hackathon](https://www.linkedin.com/company/healthtech-ai-hub/) where I co-developed [SuperQA](https://github.com/Eileenyuu/SuperQA), an AI-powered literature review assistant that leverages GPT-4o, Milvus, and a Flask frontend to query, evaluate, and test large biomedical datasets. 
 
 Previously, while completing a short course at the University of Manchester, I built [Variant_Annotator](https://github.com/0m0kenny/Variant_Annotator), a Python-based application using Ensembl’s VEP API to automate annotation of genomic variants. 
 
